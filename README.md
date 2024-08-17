@@ -19,3 +19,16 @@ git clone https://github.com/William2716057/getHashes.git
 ```
 3. Enter the file path when prompted. The script will then process all files in the specified directory.
 4. View the output in the console, which will display each file's path and its hash value.
+
+## Example
+1. When you run the script, it will ask for the directory path. For example:
+```
+Enter file path: C:\Users\YourName\Documents
+```
+2. The script will then output the file paths and their hashes:
+```
+File: C:\Users\YourName\Documents\file1.txt Hash: (3f4d5e6a7b8c9d0e1f2g3h4i5j6k7l8m)
+File: C:\Users\YourName\Documents\Subfolder\file2.txt Hash: (0e1f2g3h4i5j6k7l8m3f4d5e6a7b8c9d)
+```
+## Contributing
+If you have suggestions for improving this script, feel free to submit a pull request or open an issue.
